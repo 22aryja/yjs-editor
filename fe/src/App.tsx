@@ -1,7 +1,11 @@
-import { useState } from 'react';
+import Editor from './Editor';
 
 function App() {
-    const [count, setCount] = useState(0);
+    return (
+        <main className="w-screen h-screen">
+            <Editor />
+        </main>
+    );
 }
 
 export default App;
