@@ -29,6 +29,9 @@ importers:
       tailwindcss:
         specifier: ^4.1.14
         version: 4.1.14
+      yjs:
+        specifier: ^13.6.27
+        version: 13.6.27
     devDependencies:
       '@eslint/js':
         specifier: ^9.36.0
